@@ -9,3 +9,5 @@ A WebApp made using Java servlets and Tomcat server. HTML, CSS, Javascript and B
 - Add or Remove items from the shopping cart
 - Placing confirmed orders in the shopping cart
 - Simple filter search bar feature by snack name
+
+# Demo
