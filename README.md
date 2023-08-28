@@ -11,3 +11,4 @@ A WebApp made using Java servlets and Tomcat server. HTML, CSS, Javascript and B
 - Simple filter search bar feature by snack name
 
 # Demo
+![](https://github.com/ScWL77/ESnackShop/blob/main/ESnackshop_Demo.gif)
