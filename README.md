@@ -4,3 +4,8 @@ A WebApp made using Java servlets and Tomcat server. HTML, CSS, Javascript and B
 
 # Additional Features
 - Customer Registration and Sign-in with input validation
+- Build a more comprehensive SQL Database with multiple tables (user, snacks, cart, orders, and log)
+- Homepage that has a listing of snacks
+- Add or Remove items from the shopping cart
+- Placing confirmed orders in the shopping cart
+- Simple filter search bar feature by snack name
