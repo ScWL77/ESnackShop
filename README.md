@@ -1,6 +1,6 @@
 # ESnackShop
 IM2073 Web Programming Mini Project. 
-A WebApp made using Java servlets and Tomcat server. HTML, CSS, Javascript and Bootstrap were used to improve on the Frontend. Coded JSP instead of normal static HTML pages to contain dynamic information. Used MySQL as the database with SQL statements injected into the backend servlets.
+A WebApp made using Java servlets and Tomcat server. HTML, CSS, Javascript, and Bootstrap were used to improve on the Frontend. Coded JSP instead of normal static HTML pages to contain dynamic information. Used MySQL as the database with SQL statements injected into the backend servlets.
 
 # Additional Features Added
 - Customer Registration and Sign-in with input validation
@@ -11,4 +11,6 @@ A WebApp made using Java servlets and Tomcat server. HTML, CSS, Javascript and B
 - Simple filter search bar feature by snack name
 
 # Demo
-![](https://github.com/ScWL77/ESnackShop/blob/main/ESnackshop_Demo.gif)
+
+https://github.com/ScWL77/ESnackShop/assets/78342871/cd01569d-8029-4bcd-bf00-5a453732c81e
+
